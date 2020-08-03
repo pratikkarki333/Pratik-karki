@@ -1,0 +1,72 @@
+<html>
+<form>
+<b>NAME</b> <br><INPUT TYPE="TEXT" PLACEHOLDER="NAME"><br><br>
+<B>AGE</b><br><INPUT TYPE="number"><br><br>
+<B>ADDRESS</B><BR><INPUT TYPE="TEXT" PLACEHOLDER="temporary address"><INPUT TYPE="TEXT" PLACEHOLDER="permanent address"><br><br>
+<b>DATE OF BIRTH</b><br><input type="date"><br><br>
+<B>COUNTRY</B><BR>
+<SELECT>
+<OPTION>Nepal</OPTION>
+<OPTION>China</OPTION>
+<OPTION>Brazil</OPTION>
+<OPTION>Spain</OPTION>
+<OPTION>USA</OPTION>
+<OPTION>Poland</OPTION>
+</SELECT><BR><BR>
+<B>CONTACT ADDRESS</B>
+<table>
+<th>
+<i>phone</i>
+</th>
+<th>
+<i>fax</i>
+</th>
+<th>
+<i>E-mail</i>
+</th>
+<tr>
+<td>
+<SELECT>
+<OPTION>977</OPTION>
+<OPTION>977</OPTION>
+<OPTION>977</OPTION>
+<OPTION>977</OPTION>
+<OPTION>977</OPTION>
+</SELECT>
+<INPUT TYPE="PHONE" PLACEHOLDER="984*******">
+</td>
+<td>
+<input type="number" placeholder="fax">
+</td>
+<td>
+<input type="email id" placeholer="email" placeholder="email">
+</td>
+</tr>
+</table><BR>
+DESCRIPTION<BR>
+<TEXTAREA COLS="50" ROWS="5" PLACEHOLDER="Description"></TEXTAREA><br><br>
+<b>EDUCATION INFORMATION</b><br>
+<table>
+<th>
+<i>school</i>
+</th>
+<th>
+<i>+2/other</i>
+</th>
+<th>
+<i>Haigher level</i>
+</th>
+<TR>
+<td>
+<input type="text" placeholder="school name">
+</td>
+<td>
+<input type="text" placeholder="colleg name">
+</td>
+<td>
+<input type="text" placeholder="university name">
+</td>
+</tr>
+</TABLE>
+</form>
+</html>
